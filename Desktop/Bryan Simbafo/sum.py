@@ -1,3 +1,4 @@
+#Sum of numbers from 1 to 100
 import math
 
 sum = 0
